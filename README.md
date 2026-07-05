@@ -1,3 +1,3 @@
-# portfolio-v1
+# portfolio-ayush
 
-The portfolio of Vaibhav Tripathi.
+The portfolio of Ayush Shukla.
